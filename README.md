@@ -64,7 +64,7 @@ Thêm configuration sau vào file `claude_desktop_config.json`:
 }
 ```
 
-**Lưu ý:** Thay `/path/to/MCP_Demo/weather_server.py` bằng đường dẫn tuyệt đối đến file code của bạn.
+**Lưu ý:** Thay `/path/to/MCP_Demo/weather_server.py` bằng đường dẫn tuyệt đối đến file code.
 
 ## Các Tools có sẵn
 
